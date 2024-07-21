@@ -1,0 +1,66 @@
+HTML tags used:
+    <meta>
+    <link>
+    <script>
+    <div>
+    <img>
+    <em>
+    <a>
+    <h1>
+    <h2>
+    <button>
+    <ul>
+    <li>
+    <nav>
+    <header>
+    <main>
+    <h5>
+    <span>
+
+CSS properties used:
+    font-family
+    font-weight
+    font-size
+    font-style
+    font-optical-sizing
+    color
+    box-sizing
+    height
+    width
+    background-color
+    line-height
+    margin
+    padding
+    text-align
+    display
+    flex-wrap
+    flex-direction
+    justify-content
+    border-bottom
+    border
+    -webkit-transform
+    -webkit-transform-style
+    -webkit-transition
+    transition
+    position
+    object-fit
+    top
+    left
+    right
+    bottom
+    min-height
+    margin-left
+    margin-right
+    margin-top
+    box-shadow
+    border-radius
+    -webkit-background-clip
+    -webkit-text-fill-color
+
+JavaScript:
+    used to add interactive depth cards
+
+Bootstrap:
+    used for country cards, navbar, and containers
+
+<!! TEXT AND COUNTRY DESCRIPTIONS ARE BOILERPLATE !!>
